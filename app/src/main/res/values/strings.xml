@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Coffee Lover</string>
+    <string name="coffeelover">CoffeeLover</string>
+    <string name="startline">Get the best coffee\nto start your day!</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="or">or</string>
+    <string name="login_with_social_media">login with social media</string>
+    <string name="textlogin">Login</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">Password</string>
+    <string name="textRegister">Register</string>
+    <string name="welcome_to_coffeelover">Welcome to CoffeeLover!</string>
+    <string name="phone_number">Phone number</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="already_have_account">Already have account?</string>
+    <string name="log_in">Log in</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="click_here">Click here</string>
+</resources>
