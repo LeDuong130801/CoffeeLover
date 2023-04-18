@@ -17,4 +17,5 @@
     <color name="googleplusColor">#ff3131</color>
     <color name="facebookColor">#1d99e1</color>
     <color name="twitterColor">#2fd0fa</color>
+    <color name="lightGray">#4C4C4C</color>
 </resources>

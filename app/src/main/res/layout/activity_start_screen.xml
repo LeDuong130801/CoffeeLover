@@ -30,7 +30,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         />
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/registerButton"
+        android:id="@+id/bt_register"
         android:layout_width="@dimen/_110sdp"
         android:layout_height="@dimen/_48sdp"
         android:text="@string/register"
@@ -44,7 +44,7 @@
         android:textAllCaps="false"
         />
     <com.google.android.material.button.MaterialButton
-        android:id="@+id/loginButton"
+        android:id="@+id/bt_login"
         android:layout_width="@dimen/_110sdp"
         android:layout_height="@dimen/_48sdp"
         android:text="@string/log_in"
@@ -113,8 +113,7 @@
             <ImageView
                 android:layout_width="@dimen/_48sdp"
                 android:layout_height="@dimen/_48sdp"
-                android:src="@drawable/icons8_google_plus"
-                app:tint="@color/googleplusColor"/>
+                android:src="@drawable/icons8_google"/>
             <ImageView
                 android:layout_width="@dimen/_48sdp"
                 android:layout_height="@dimen/_48sdp"

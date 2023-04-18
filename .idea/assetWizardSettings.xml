@@ -33,8 +33,9 @@
                         </option>
                         <option name="values">
                           <map>
-                            <entry key="outputName" value="ic_baseline_remove_red_eye_24" />
-                            <entry key="sourceFile" value="C:\Users\DuongPC\Downloads\icons8-twitter-circled.svg" />
+                            <entry key="assetSourceType" value="FILE" />
+                            <entry key="outputName" value="icons8_google" />
+                            <entry key="sourceFile" value="C:\Users\DuongPC\Downloads\icons8-google.svg" />
                           </map>
                         </option>
                       </PersistentState>
